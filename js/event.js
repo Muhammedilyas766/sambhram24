@@ -2,7 +2,7 @@ $(".button-solid").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshith (+91 9819376046)</p><p id="rules">Rules: <br /><ul><li>Individual Participant.</li> <li>Any type of electrical components and engines are prohibited.</li> <li>Source code for the program will be given, along with expected results.</li> <li> Bonus points for early submission.</li> </ul></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshith (+91 9819376046)</p><p id="rules">Rules: <br />Individual Participant.<br/> Any type of electrical components and engines are prohibited.<br/>Source code for the program will be given, along with expected results.<br/> Bonus points for early submission.<br/></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
