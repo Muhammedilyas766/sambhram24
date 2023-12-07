@@ -2,7 +2,7 @@ $(".button-solid").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshith (+91 9819376046)</p><p id="rules">Rules: <br>--Individual Participant.<br>-- Any type of electronical components and engines are prohibited.<br>--Source code for the program will be given, along with expected results.<br>-- Bonus points for early submission.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">DEBUG THE CODE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location:1st Floor ISE Lab </p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Mr. Rakshith (+91 9819376046)</p><p id="rules">Rules: <br>-- Individual Participant.<br>-- Any type of electronical components and engines are prohibited.<br>-- Source code for the program will be given, along with expected results.<br>-- Bonus points for early submission.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -14,7 +14,7 @@ $(".button-solid1").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">QUIZOHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br />Three make a Team. No gadgets and electronics allowed. Preliminary rounds and screenings will be implemented.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">QUIZOHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br>-- Three make a Team.<br>-- No gadgets and electronics allowed.<br>-- Preliminary rounds and screenings will be implemented.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -26,7 +26,7 @@ $(".button-solid2").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BLIND CODING</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CSE Lab(2nd Floor - Canteen Building)</p><p id="time">Timing: 12:30 PM -- 2:30 PM</p><p>Student Coordinator:<br> MR. MOHAMMED ILYAS (+91 8618197191)</p><p id="rules">Rules: <br />Team size- Two makes a team. Participants need to write code for the given problem statement using C. Participants found trying to turn on their screens, accessing the internet, or using any external resources, will be liable to immediate disqualification.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BLIND CODING</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CSE Lab(2nd Floor - Canteen Building)</p><p id="time">Timing: 12:30 PM -- 2:30 PM</p><p>Student Coordinator:<br> MR. MOHAMMED ILYAS (+91 8618197191)</p><p id="rules">Rules: <br>-- Two make a team.<br>-- Participants need to write code for the given problem statement using C.<br>-- Participants found trying to turn on their screens, accessing the internet, or using any external resources, will be liable to immediate disqualification.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -38,7 +38,7 @@ $(".button-solid3").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">TECH TALKS</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 201(2nd Floor - Canteen Building)</p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Ms. Deeksha D Achar (+91 7019576245)</p><p id="rules">Rules: <br />Topics will be given on the spot.Participants should present without the use of slides, props, or any additional visual aids.Evaluation based on clarity, content depth, delivery style and ability to engage the audience. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">TECH TALKS</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 201(2nd Floor - Canteen Building)</p><p id="time">Timing: 10:00 AM -- 12:00 PM</p><p>Student Coordinator:<br>Ms. Deeksha D Achar (+91 7019576245)</p><p id="rules">Rules: <br>-- Topics will be given on the spot.<br>-- Participants should present without the use of slides, props, or any additional visual aids.<br>-- Evaluation based on clarity, content depth, delivery style and ability to engage the audience.<br> </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -50,7 +50,7 @@ $(".button-solid4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">GRAPHIC DESIGNING</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: VLSI Lab (1st Floor - Canteen Building)</p><p id="time">Timing: 3:00 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Likith K G (+91 7975732793) </p><p id="rules">Rules: <br />One participant. Necessary software will be provided. Gadgets are prohibited. Topics will be given on the spot. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">GRAPHIC DESIGNING</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: VLSI Lab (1st Floor - Canteen Building)</p><p id="time">Timing: 3:00 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Likith K G (+91 7975732793) </p><p id="rules">Rules: <br>-- Individual participant.<br>-- Necessary software will be provided.<br>-- Gadgets are prohibited.<br>-- Topics will be given on the spot.<br> </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -62,7 +62,7 @@ $(".button-solid5").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">WEBSCAPE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: VLSI Lab (1st Floor - Canteen Building)</p><p id="time">Timing: 10:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Zameel (+91 9746034280)</p><p id="rules">Rules: <br />Three makes a team. Round 1: Technical quiz based on web development bases. Round 2: The participants will be given a partially designed website in HTML, CSS and JS. The participants will need to improve it with respect to the design components and functionality of the website.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">WEBSCAPE</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: VLSI Lab (1st Floor - Canteen Building)</p><p id="time">Timing: 10:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Mr. Zameel (+91 9746034280)</p><p id="rules">Rules: <br >--Three make a team.<br>-- Round 1: Technical quiz based on web development bases.<br>-- Round 2: The participants will be given a partially designed website in HTML, CSS and JS.<br>-- The participants will need to improve it with respect to the design components and functionality of the website.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -74,7 +74,7 @@ $(".button-solid6").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">APP’O HOLICS</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: Near ISE Lab(1st Floor - Canteen Building)</p><p id="time">Timing: 2:00 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Aman Nivedh (+91 9880618704)</p><p id="rules">Rules: <br />Four makes a team. Topics will be given on the spot. Participants can choose to bring their own computers, mobile phones, else they can opt to use the systems provided for them during the event. Software: Android Studio (XML with Java/ Kotlin).</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">APP’O HOLICS</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: Near ISE Lab(1st Floor - Canteen Building)</p><p id="time">Timing: 2:00 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Aman Nivedh (+91 9880618704)</p><p id="rules">Rules: <br >--Four make a team.<br>-- Topics will be given on the spot.<br>-- Participants can choose to bring their own computers, mobile phones, else they can opt to use the systems provided for them during the event.<br>-- Software: Android Studio (XML with Java/ Kotlin).<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -86,7 +86,7 @@ $(".button-solid7").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">CODE CRUSADE</p><p>[CSE &ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CIM Lab (Basement)</p><p id="time">Timing: 2:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Siddharth (+91 9449051595)</p><p id="rules">Rules: <br />1 participant. Online Compilers are strictly prohibited, any participant found using the mentioned will be disqualified. The organizers reserve the right to change any or all of the above rules as they deem fit. Programming Languages Allowed:  C, C++, Java, and Python. </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">CODE CRUSADE</p><p>[CSE &ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: CIM Lab (Basement)</p><p id="time">Timing: 2:30 PM -- 4:30 PM</p><p>Student Coordinator:<br>Mr. Siddharth (+91 9449051595)</p><p id="rules">Rules: <br>-- Individual participant.<br>-- Online Compilers are strictly prohibited, any participant found using the mentioned will be disqualified.<br>-- The organizers reserve the right to change any or all of the above rules as they deem fit.<br>-- Programming Languages Allowed:  C, C++, Java, and Python.<br> </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
