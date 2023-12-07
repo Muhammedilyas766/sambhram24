@@ -419,7 +419,7 @@ $(".button-solid23").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">BRAND RANGOLI </p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: New Building 6th Floor</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Ms. KRITHIKA (+91 7676609220)</p><p id="rules">Rules: <br />Two make a team. Any number of teams from a college can participate in the event.The event is open to all students.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">BRAND RANGOLI </p><p>[MBA]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 100/-</p><p id="location">Location: New Building 6th Floor</p><p id="time">Timing: 11:00 AM -- 1:00 PM</p><p>Student Coordinator:<br>Ms. KRITHIKA (+91 7676609220)</p><p id="rules">Rules: <br />Two make a team. Any number of teams from a college can participate in the event.The event is open to all students.</p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
